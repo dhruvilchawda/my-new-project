@@ -1,0 +1,10 @@
+# Editor and OS artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local tools
+node_modules/
+dist/
+coverage/
