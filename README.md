@@ -1,0 +1,1 @@
+# my-new-project\n\nThis is a new project created with GitHub CLI.
